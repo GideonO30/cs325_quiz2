@@ -6,8 +6,7 @@ Simple calculator program.
 
 - Addition
 - Subtraction
-- Multiplication
-- Divide
+
 
 ## Run
 
